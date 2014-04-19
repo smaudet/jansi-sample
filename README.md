@@ -9,7 +9,7 @@ To run the project you must:
 
 That's it - windows and *nix scripts are provided.
 
-This was the sole exception of the following GIST: 
+This was thanks to the prior work of the following GIST's owner: 
 https://gist.github.com/cy6erGn0m/2966165
 
 To make things easier for others to test their JANSI is working, I've created
